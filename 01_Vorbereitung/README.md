@@ -19,6 +19,7 @@
 Im File under "# Mark this..." folgendes schreiben
 |root=example@gmail.com|
 |---|
+---
 Unter "# MX records..." folgendes schreiben:
 
 | mailhub=ssmtp.gmail.com:465 |
