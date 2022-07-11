@@ -33,7 +33,7 @@ echo $getdate
 touch $getdate.txt | exit
 
 echo "Datum der Angaben:" >> $getdate.txt
-cat data_temp.txt | tail -n1 | cut -d ',' -f3 | tee >> $getdate.txt;
+cat data_temp.txt | tail -n1 | cut -d ',' -f3 | tee > $getdate.txt;
 
 echo "Zeit der Angaben:" >> $getdate.txt
 cat data_temp.txt | tail -n1 | cut -d ',' -f4 | tee >> $getdate.txt;
