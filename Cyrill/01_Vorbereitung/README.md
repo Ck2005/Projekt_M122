@@ -36,3 +36,7 @@ Unter "# MX records..." folgendes schreiben:
 
 |UseTLS=YES|
 |---|
+
+## Senden zu bestimmter Zeit
+
+Um das zu machen, muss mach in der Kommandozentrale crontab eingeben und diesen Text einfügen 0 20 * * * Dateipfad.
