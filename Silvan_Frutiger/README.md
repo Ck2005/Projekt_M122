@@ -1,4 +1,4 @@
-## [Vorbereitung](/Silvan_Frutiger/01_Vorbereitung)
+## [Vorbereitung](/Silvan_Frutiger/01_Vorbereitungen)
 In diesem Ordner sind die Vorbereitungen festgehalten, welche getroffen werden müssen, damit von der VM ein Mail versendet werden kann.
 
 ## [Anforderungen](/Silvan_Frutiger/02_Anforderungen)
