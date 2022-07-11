@@ -11,4 +11,4 @@ Falls das Script nicht funktionieren sollte, kann die [Meldung](/Silvan_Frutiger
 Der Fehler "Network is unreachable wurde angezeigt. Dies hatte zufolge, dass ich mit dem öffentilchen TBZ-WLAN verbunden war.
 
 ---
-Home
+[home](/Silvan_Frutiger/)

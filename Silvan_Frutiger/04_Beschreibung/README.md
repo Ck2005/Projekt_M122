@@ -27,3 +27,5 @@ Ein Beispiel wäre:
 Das Script kann mit auch Manuell ausgefüghrt werden. Hierfür muss folgendes im Terminal eigegeben werden:
 |./path/of/script.bash|
 ---
+---
+[home](/Silvan_Frutiger/)
